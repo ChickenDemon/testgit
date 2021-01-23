@@ -15,4 +15,5 @@ _斜体_
 使用 Markdown[^1]可以效率的书写文档, 直接转换成 HTML[^2], 你可以使用 Typora[^T] 编辑器进行书写。
 [^1]:Markdown是一种纯文本标记语言
 [^2]:HyperText Markup Language 超文本标记语言
-[^T]:NEW WAY TO READ & WRITE MARKDOWN.
+[^T]:NEW WAY TO READ & WRITE MARKDOWN.  
+![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png)
